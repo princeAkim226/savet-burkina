@@ -8,8 +8,8 @@ export default function Home() {
   const services = [
     {
       icon: <Stethoscope className="h-8 w-8" />,
-      title: "Produits Vétérinaires",
-      description: "Large gamme de produits vétérinaires de qualité pour tous vos besoins en santé animale."
+      title: "Médicaments Vétérinaires",
+      description: "Large gamme de médicaments vétérinaires de qualité pour tous vos besoins en santé animale."
     },
     {
       icon: <Leaf className="h-8 w-8" />,
