@@ -21,7 +21,14 @@ const Footer = () => {
             <ul className="space-y-3 text-gray-600">
               <li className="flex items-center gap-2">
                 <MapPin className="h-5 w-5 text-primary" />
-                01 B.P. 363, Bobo-Dioulasso 01, BURKINA FASO
+                <a
+                  href="https://www.google.com/maps/search/savet+sas+burkina+faso/@11.8105431,-4.1861025,8z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEwMi4wIKXMDSoASAFQAw%3D%3D"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-primary transition-colors"
+                >
+                  01 B.P. 363, Bobo-Dioulasso 01, BURKINA FASO
+                </a>
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="h-5 w-5 text-primary" />
