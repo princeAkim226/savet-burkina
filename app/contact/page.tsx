@@ -22,8 +22,8 @@ export default function ContactPage() {
               <Mail className="h-6 w-6 text-primary mt-1" />
               <div>
                 <h3 className="font-semibold">Email</h3>
-                <a href="mailto:dr.tiamaazizabdoul@gmail.com" className="text-gray-600 hover:text-primary">
-                  dr.tiamaazizabdoul@gmail.com
+                <a href="mailto:infos@savet-burkina.com" className="text-gray-600 hover:text-primary">
+                infos@savet-burkina.com
                 </a>
               </div>
             </div>
